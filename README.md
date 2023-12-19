@@ -20,9 +20,10 @@ Use otu_ids as the labels for the bar chart.
 
 Use otu_labels as the hovertext for the chart.
 
-bar Chart
+![image](https://github.com/Dusko2779/BootCamp_belly-button-challenge/assets/134830906/090fd365-61be-4436-8e52-bb7aadf59110)
 
-Create a bubble chart that displays each sample.
+
+### Create a bubble chart that displays each sample.
 Use otu_ids for the x values.
 
 Use sample_values for the y values.
@@ -33,17 +34,14 @@ Use otu_ids for the marker colors.
 
 Use otu_labels for the text values.
 
-Bubble Chart
+![image](https://github.com/Dusko2779/BootCamp_belly-button-challenge/assets/134830906/b40bbdd2-ac88-4482-a189-cd9b9fea9fde)
+
 
 Display the sample metadata, i.e., an individual's demographic information.
 
 Display each key-value pair from the metadata JSON object somewhere on the page.
 
 Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown as follows:
-
-Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough README.md file
-Advanced Challenge Assignment (Optional with no extra points earning)
-The following task is advanced and therefore optional.
 
 Adapt the Gauge Chart from https://plot.ly/javascript/gauge-charts/Links to an external site. to plot the weekly washing frequency of the individual.
 
