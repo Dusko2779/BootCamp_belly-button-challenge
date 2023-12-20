@@ -1,4 +1,4 @@
-### Module_14_Belly-Button-Challenge
+### Module_14_Belly_Button_Challenge
  
 ### https://dusko2779.github.io/BootCamp_belly-button-challenge/
 
